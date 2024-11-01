@@ -1,0 +1,12 @@
+.header{
+    margin-left: 20px;
+    background-color: tomato;
+    gap: 20px ;
+    margin: 40px;
+}
+ 
+nav a.active{
+    text-decoration: underline;
+    color: red;
+    background: green;
+}
